@@ -1,3 +1,5 @@
+package Chapter2;
+
 import java.util.Scanner;
 
 public class Ex2_17 {
@@ -19,7 +21,7 @@ public class Ex2_17 {
         System.out.println("Enter the temperature in Fahrenheit between -58\u00B0F and 41\u00B0F:");
         double temperature = input.nextDouble();
 
-        System.out.println("Enter the wind speed (7 = 2) in miles per hour: ");
+        System.out.println("Enter the wind speed ( >= 2) in miles per hour: ");
         double windSpeed = input.nextDouble();
 
         double windChillTemperatute = 35.74 + 0.6215*temperature - 35.75*Math.pow(windSpeed,0.16) + 0.4275*temperature*Math.pow(windSpeed, 0.16);
