@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="Just added remaining chapther 3 solutions">
-      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_5.java" afterDir="false" />
+    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added remaining chapther 4( from 4.1 to 4.5) solutions">
+      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -51,27 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zubeyireser/Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/zubeyireser/Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
@@ -139,7 +138,10 @@
       <workItem from="1694273184020" duration="107000" />
       <workItem from="1694273826875" duration="3880000" />
       <workItem from="1695822233768" duration="26255000" />
-      <workItem from="1695997734695" duration="63912000" />
+      <workItem from="1695997734695" duration="71954000" />
+      <workItem from="1696861768665" duration="3971000" />
+      <workItem from="1697040926012" duration="1422000" />
+      <workItem from="1697652078837" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="Just added 3.1, 3.2, and 3.3 solutions">
       <option name="closed" value="true" />
@@ -181,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696612050516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added remaining chapther 4( from 4.1 to 4.5) solutions">
+      <option name="closed" value="true" />
+      <created>1696760709858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696760709858</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +240,7 @@
     <MESSAGE value="Just added 3.4 to 3.22 solutions" />
     <MESSAGE value="Just added 3.23 to 3.29 solutions" />
     <MESSAGE value="Just added remaining chapther 3 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just added remaining chapther 3 solutions" />
+    <MESSAGE value="added remaining chapther 4( from 4.1 to 4.5) solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added remaining chapther 4( from 4.1 to 4.5) solutions" />
   </component>
 </project>
