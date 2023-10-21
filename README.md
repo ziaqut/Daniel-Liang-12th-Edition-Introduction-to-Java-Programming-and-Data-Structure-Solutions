@@ -26,4 +26,6 @@ To run a solution, you will need a Java development environment such as [Eclipse
 ```shell
 javac ExerciseX.java  # Compile the Java file
 java ExerciseX        # Run the compiled program
-
+```
+## Solutions
+Feel free to explore the solutions by navigating to the specific chapter and exercise you're interested in. You can view the source code and explanations to gain insights into how each problem is solved.
