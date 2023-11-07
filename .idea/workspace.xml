@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added remaining chapther 4( from 4.9 to 4.12) solutions adn readme solutions title added">
-      <change afterPath="$PROJECT_DIR$/Head_Java_First/Rocketship.java" afterDir="false" />
+    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="I'm reading Chapter 5 and doing extra exercises as I go along.">
+      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Ex4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/SubtractionQuizLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter4/Ex4_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Ex4_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zubeyireser/Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/zubeyireser/Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
@@ -143,7 +147,8 @@
       <workItem from="1697652078837" duration="3352000" />
       <workItem from="1697906927407" duration="8776000" />
       <workItem from="1698057389773" duration="1830000" />
-      <workItem from="1699195292733" duration="3340000" />
+      <workItem from="1699195292733" duration="8529000" />
+      <workItem from="1699365724586" duration="4892000" />
     </task>
     <task id="LOCAL-00001" summary="Just added 3.1, 3.2, and 3.3 solutions">
       <option name="closed" value="true" />
@@ -209,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697918427345</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added remaining chapther 4(4.13) solutions.">
+      <option name="closed" value="true" />
+      <created>1699199346735</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699199346735</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +274,12 @@
     <MESSAGE value="added remaining chapther 4( from 4.1 to 4.5) solutions" />
     <MESSAGE value="added remaining chapther 4( from 4.6 to 4.8) solutions" />
     <MESSAGE value="added remaining chapther 4( from 4.9 to 4.12) solutions adn readme solutions title added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added remaining chapther 4( from 4.9 to 4.12) solutions adn readme solutions title added" />
+    <MESSAGE value="added remaining chapther 4(4.13) solutions." />
+    <MESSAGE value="I'm reading Chapter 5 and doing extra exercises as I go along." />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm reading Chapter 5 and doing extra exercises as I go along." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
