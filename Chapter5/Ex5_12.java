@@ -8,5 +8,7 @@ public class Ex5_12 {
             n++;
         }
         System.out.println("Smalles n is " + n);
+
+
     }
 }
