@@ -1,17 +1,31 @@
 package Chapter5;
 
+import java.util.Scanner;
+
 public class Ex5_15 {
     public static void main(String[] args) {
-        int n = 7;
-        for (int i = 7; i > 0 ; i--) {
-            for (int j = 1; j<i ;j++) {
-                System.out.print(" ");
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("enter the beginning of ascii character :");
+        String startString = input.nextLine();
+
+
+        System.out.println("enter the last of ascii character :");
+        String endString = input.nextLine();
+
+        char startChar = startString.charAt(0);
+        char endChar = endString.charAt(0);
+        int count = 0;
+        for (char k = startChar; k <= endChar;k++) {
+            System.out.print(k + " ");
+            count++;
+
+            if (count == 10) {
+                System.out.println();
+                count = 0;
             }
-            for (int k = n; i<=k; k--) {
-                System.out.print(k);
-            }
-            System.out.println();
         }
+
 
     }
 }
