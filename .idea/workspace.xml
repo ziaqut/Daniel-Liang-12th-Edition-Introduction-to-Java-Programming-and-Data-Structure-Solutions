@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added solution of 5.23">
-      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_24.java" afterDir="false" />
+    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added solution of 5.23 and 5.24">
+      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/Ex5_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/Ex5_23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex5_24">
+  <component name="RunManager" selected="Application.Ex5_26">
     <configuration type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -128,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.SquareDigit" />
+    <configuration name="Ex5_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.Ex5_25" />
       <module name="Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.SquareDigits" />
+    <configuration name="Ex5_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.Ex5_26" />
       <module name="Daniel-Liang-12th-Edition-Introduction-to-Java-Programming-and-Data-Structure-Solutions" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_26" />
+        <item itemvalue="Application.Ex5_25" />
         <item itemvalue="Application.Ex5_24" />
         <item itemvalue="Application.Ex5_23" />
         <item itemvalue="Application.Ex5_22" />
-        <item itemvalue="Application.SquareDigits" />
-        <item itemvalue="Application.SquareDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,7 @@
       <workItem from="1713338320792" duration="970000" />
       <workItem from="1713432536519" duration="1051000" />
       <workItem from="1714327280244" duration="1875000" />
-      <workItem from="1715256461292" duration="1996000" />
+      <workItem from="1715256461292" duration="4891000" />
     </task>
     <task id="LOCAL-00001" summary="Just added 3.1, 3.2, and 3.3 solutions">
       <option name="closed" value="true" />
@@ -433,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713432904881</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added solution of 5.23 and 5.24">
+      <option name="closed" value="true" />
+      <created>1715590175881</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715590175881</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +507,8 @@
     <MESSAGE value="added solution of 5.21" />
     <MESSAGE value="added solution of 5.22 and SquareDigits" />
     <MESSAGE value="added solution of 5.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution of 5.23" />
+    <MESSAGE value="added solution of 5.23 and 5.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution of 5.23 and 5.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
