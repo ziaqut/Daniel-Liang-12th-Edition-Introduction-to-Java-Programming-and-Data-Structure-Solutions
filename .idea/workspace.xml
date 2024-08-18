@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added solution of 5.25 and 5.26">
-      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/Ex5_29.java" afterDir="false" />
+    <list default="true" id="e030d0df-f606-4ffb-b29c-99001bbffde3" name="Changes" comment="added solution of 5.27 and 5.28">
+      <change afterPath="$PROJECT_DIR$/Chapter5/EX5_35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,7 +214,10 @@
       <workItem from="1713338320792" duration="970000" />
       <workItem from="1713432536519" duration="1051000" />
       <workItem from="1714327280244" duration="1875000" />
-      <workItem from="1715256461292" duration="7607000" />
+      <workItem from="1715256461292" duration="8916000" />
+      <workItem from="1720954156567" duration="602000" />
+      <workItem from="1723139854996" duration="36000" />
+      <workItem from="1724013009006" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="Just added 3.1, 3.2, and 3.3 solutions">
       <option name="closed" value="true" />
@@ -450,7 +451,39 @@
       <option name="project" value="LOCAL" />
       <updated>1715758057452</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added solution of 5.25 and 5.26">
+      <option name="closed" value="true" />
+      <created>1715760729096</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715760729096</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added solution of 5.25 and 5.26">
+      <option name="closed" value="true" />
+      <created>1715760755353</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715760755353</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added solution of 5.25 and 5.26">
+      <option name="closed" value="true" />
+      <created>1715760770604</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715760770604</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added solution of 5.27 and 5.28">
+      <option name="closed" value="true" />
+      <created>1715760787860</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715760787860</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +551,8 @@
     <MESSAGE value="added solution of 5.23" />
     <MESSAGE value="added solution of 5.23 and 5.24" />
     <MESSAGE value="added solution of 5.25 and 5.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution of 5.25 and 5.26" />
+    <MESSAGE value="added solution of 5.27 and 5.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution of 5.27 and 5.28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
