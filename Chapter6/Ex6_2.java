@@ -28,7 +28,7 @@ public class Ex6_2 {
         int sum = 0;
         // let assume we have 12345
         // 12345 % 10 = 5 Add to our sum
-        // remove last digit simply diving by 1ß
+        // remove last digit simply diving by 10
         // 1234 and repeat
         while (n >= 1) {
             sum += n % 10;
