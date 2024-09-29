@@ -8,7 +8,7 @@ This repository contains my own solutions to the programming exercises found in 
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Solutions](#solutions)
-- [Contributing](#contributing)
+
 
 ## About
 
