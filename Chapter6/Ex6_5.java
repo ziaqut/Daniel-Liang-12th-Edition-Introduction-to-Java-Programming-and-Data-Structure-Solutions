@@ -1,6 +1,8 @@
 package Chapter6;
 
-import static java.util.Collections.swap;
+/*
+* Strategy: is swaping using array
+* */
 
 public class Ex6_5 {
     public static void main(String[] args) {
