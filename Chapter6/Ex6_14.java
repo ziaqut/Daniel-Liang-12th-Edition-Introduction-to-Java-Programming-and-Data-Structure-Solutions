@@ -12,7 +12,7 @@ public class Ex6_14 {
     public static void main(String[] args) {
         System.out.println(" i    m(i)");
 
-        for (int i = 1; i <= 901; i += 100) {
+        for (int i = 1; i <= 90001; i += 100) {
             System.out.printf("%-4d %.4f%n", i, estimatePi(i));
         }
     }
